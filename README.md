@@ -1,4 +1,4 @@
-# random_os
+# random
 
 ## Building for bare metal target:  
 By default Rust tries to build an executable that is able to run in your current system environment. For example, if you’re using Windows on x86_64, Rust tries to build an .exe Windows executable that uses x86_64 instructions. This environment is called your “host” system.
